@@ -1,5 +1,5 @@
  ### 👋 Hi there, I’m **Arunodoi Bhattacharyya**.
- ### 👀 I’m very much interested in **Full Stack Developement**.
+ ### 👀 I’m very much interested in **Full Stack Developement** and **Data Engineering**.
 - 🌱 I’m currently learning the **MERN Stack**.
 - 💞️ I’m really excited to collaborate on projects related to **Full Stack Developement**.
 - 📫 How to reach me : arunbhatt647@gmail.com
