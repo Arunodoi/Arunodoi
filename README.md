@@ -1,4 +1,4 @@
- ### 👋 Hi there, I’m **Arunodoi Bhattacharyya** , a **Full Stack Developer** by Profession.
+ ### 👋 Hi there, I’m **Arunodoi Bhattacharyya**.
  ### 👀 I’m very much interested in **Full Stack Developement**.
 - 🌱 I’m currently learning the **MERN Stack**.
 - 💞️ I’m really excited to collaborate on projects related to **Full Stack Developement**.
